@@ -6,3 +6,9 @@
 **Lessons Learnt:** This project emphasized the importance of rigorous data preprocessing, feature selection, and model evaluation in developing effective fraud detection systems. Additionally, it highlighted the significance of leveraging ensemble methods and appropriate scaling techniques to enhance model performance and achieve reliable predictions.
 
 Data Source -  https://www.kaggle.com/datasets/willianoliveiragibin/high-fidelity-fraudulent-activity-2023/data
+
+Data distribution - 
+![image](https://github.com/Omkarnj/CCfraud_detection/assets/135634070/73a3a62b-7f9a-4c02-aba3-19c5db677a9f)
+
+
+
