@@ -7,6 +7,25 @@
 
 Data Source -  https://www.kaggle.com/datasets/willianoliveiragibin/high-fidelity-fraudulent-activity-2023/data
 
+---
+#### Logistic Regression:
+- Accuracy: 0.96 - Precision: 0.98 - Recall: 0.94 - F1 Score: 0.96 - ROC AUC: 0.99
+---
+#### Random Forest:
+- Accuracy: 1.00 - Precision: 1.00 - Recall: 1.00 - F1 Score: 1.00 - ROC AUC: 1.00
+---
+#### SVM:
+- Accuracy: 0.97 - Precision: 0.99 - Recall: 0.96 - F1 Score: 0.97 - ROC AUC: 1.00
+---
+#### Gradient Boosting:
+- Accuracy: 0.98 - Precision: 0.99 - Recall: 0.97 - F1 Score: 0.98 - ROC AUC: 1.00
+---
+#### Decision Tree:
+- Accuracy: 1.00 - Precision: 1.00 - Recall: 1.00 - F1 Score: 1.00 - ROC AUC: 1.00
+---
+CPU times: total: 2h 44min 52s <br>
+Wall time: 3h 42min 13s
+
 
 Data distribution - 
 
