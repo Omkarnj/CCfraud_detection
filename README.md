@@ -7,8 +7,12 @@
 
 Data Source -  https://www.kaggle.com/datasets/willianoliveiragibin/high-fidelity-fraudulent-activity-2023/data
 
+
 Data distribution - 
+
+
 ![image](https://github.com/Omkarnj/CCfraud_detection/assets/135634070/73a3a62b-7f9a-4c02-aba3-19c5db677a9f)
 
+![image](https://github.com/Omkarnj/CCfraud_detection/assets/135634070/5a829164-446b-4e89-9790-dfcbc6fab2e7)
 
 
